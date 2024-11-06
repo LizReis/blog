@@ -7,17 +7,24 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Leandro Souza",
+    url: "https://github.com/leandro-costa",
   },
+
+  lastUpdated: false,
+  contributors: false,
+
+  //iconAssets: "iconify",
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "20242-ifba-saj-ads-poo/blog",
 
   docsDir: "src",
+
+  docsBranch: "master",
 
   // navbar
   navbar,
@@ -25,55 +32,20 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Material de aula IFBA SAJ",
 
   displayFooter: true,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+
 
   blog: {
-    description: "A FrontEnd programmer",
+    description: "Professor EBTT",
     intro: "/intro.html",
+    //roundAvatar:true,
+    avatar: "/assets/icon/icon-512.png",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Instagram: "https://example.com",
-      Lark: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      Email: "mailto:leandro.costa@ifba.edu.br",
+      GitHub: "https://github.com/leandro-costa",
     },
   },
 

@@ -9,7 +9,7 @@ export default navbar([
   },
   {
     text: "Categoria",
-    icon: "categoryselected",
+    icon: "list",
     link: "/category/",
   },
   {
@@ -19,17 +19,17 @@ export default navbar([
   },
   {
     text: "Exercícios",
-    icon: "study",
+    icon: "book",
     link: "/category/exercicio/",
   },
   {
     text: "Para Entrega",
-    icon: "study",
+    icon: "book",
     link: "/category/entrega/",
   },
   {
     text: "Timeline",
-    icon: "time",
+    icon: "clock",
     link: "/timeline/",
   },
 ]);
