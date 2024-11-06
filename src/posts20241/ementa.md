@@ -1,6 +1,6 @@
 ---
 icon: edit
-date: 2024-11-06 17:40:00.00 -3
+date: 2024-03-19 17:40:00.00 -3
 tag:
   - ementa
 category:
@@ -16,7 +16,7 @@ index: false
 
 **DOCENTE:** Leandro Costa Souza
 
-**PERÍODO LETIVO:** 2024.2
+**PERÍODO LETIVO:** 2024.1
 
 **Código Disciplina:** PRG04 Programação Orientada a Objetos
 

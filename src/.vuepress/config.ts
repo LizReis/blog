@@ -3,7 +3,7 @@ import umlPlugin from 'markdown-it-plantuml';
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/blog-material-aula/",
+  base: "/blog/",
 
   lang: "pt-BR",
   title: "20242 POO Blog das Aulas",
