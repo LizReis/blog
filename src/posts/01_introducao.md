@@ -95,13 +95,13 @@ Principais elementos desse paradigma:
 Exemplo:
 
 **Proposição** 
-: Chico é um gato.
+> Chico é um gato.
 
 **Regra de inferência**
-: Todo gato é um felino.
+> Todo gato é um felino.
 
 **Busca**
-: Chico é um felino?
+> Chico é um felino?
 
 A resposta para a **Busca** acima precisa ser **verdadeira**. A conclusão lógica é:
 
