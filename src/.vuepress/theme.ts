@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  //hostname: "https://20242-ifba-saj-ads-poo.github.io",
 
   author: {
     name: "Leandro Souza",
@@ -24,7 +24,7 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  docsBranch: "master",
+  //docsBranch: "main",
 
   // navbar
   navbar,
@@ -40,8 +40,10 @@ export default hopeTheme({
 
   blog: {
     description: "Professor EBTT",
-    intro: "/intro.html",
+    //intro: "/intro.html",
+    
     //roundAvatar:true,
+    
     avatar: "/assets/icon/icon-512.png",
     medias: {
       Email: "mailto:leandro.costa@ifba.edu.br",
@@ -58,10 +60,12 @@ export default hopeTheme({
   hotReload: true,
 
   plugins: {
-    blog: true,
+    blog: {
+      excerpt: false
+    },
     search: true,
 
-  
+
 
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
