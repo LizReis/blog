@@ -8,7 +8,7 @@ category:
   - entrega
 ---
 
-# Exercício: Area do Prédio
+# Exercício: Area do Prédio OO
 
 
 1. Escreva um programa em OO para calcular o preço do aluguel de todo um prédio comercial. 
