@@ -6,7 +6,7 @@ tag:
   - paradigmas
 category:
   - aula
-order: 1
+order: 2
 ---
 
 # Linguagens e paradigmas de programação

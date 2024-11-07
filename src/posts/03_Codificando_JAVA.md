@@ -5,7 +5,7 @@ tag:
   - java
 category:
   - aula
-order: 2
+order: 3
 ---
 
 # Codificando com JAVA
