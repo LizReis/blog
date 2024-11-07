@@ -1,13 +1,11 @@
 ---
 icon: list-check
-date: 2024-03-27 19:21:00.00 -3
+date: 2024-11-14 17:40:10.00 -3
 tag:
   - java
 category:
   - exercicio
   - entrega
-prev: 02_exercicio_predio_estruturado
-next: 04_exercicio_data_OO
 ---
 
 # Exercício: Area do Prédio
@@ -20,4 +18,4 @@ next: 04_exercicio_data_OO
 
 ## Exemplo
 
-[Link repositório](https://github.com/20241-ifba-saj-ads-poo/javafx-predio)
+[Link repositório](https://github.com/20242-ifba-saj-ads-poo/javafx-predio)

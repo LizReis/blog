@@ -15,6 +15,7 @@ star: true
 # SW utilizados
 
 - [JDK](https://adoptium.net/temurin/releases/)
+- [Maven](https://maven.apache.org/)
 - Git
     - [Github Desktop (windows)](https://desktop.github.com/)
 - Visual Studio Code
@@ -70,6 +71,7 @@ scoop install main/git
 scoop install main/gh
 scoop bucket add java
 scoop install java/temurin-lts-jdk
+scoop install main/maven
 scoop bucket add extras
 scoop install extras/scene-builder
 scoop install extras/vscode

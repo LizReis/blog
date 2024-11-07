@@ -1,6 +1,6 @@
 ---
 icon: list-check
-date: 2024-11-14 17:40:00.00 -3
+date: 2024-11-14 17:40:09.00 -3
 tag:
   - java
 category:
@@ -33,4 +33,4 @@ category:
 
 ## Link
 
-[Entrega](https://classroom.github.com/a/POds2AN3)
+[Entrega](https://classroom.github.com/a/RdiGq3zS)
